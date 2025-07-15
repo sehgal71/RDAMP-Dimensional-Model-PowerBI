@@ -42,7 +42,7 @@ Create SQL views for reporting insights:
 ---
 
 ## Reusable SQL Queries 
-
+[SQL Queries File](./sql/queries.sql)
 
 ---
 ## Power BI Dashboard Features
@@ -64,16 +64,16 @@ Create SQL views for reporting insights:
 
 
 ### Product Seasonality Trend
-<img width="260" height="323" alt="Product Seasonality Trends" src="https://github.com/user-attachments/assets/afa3de94-3e4b-4242-8312-81c1ab952ab4" />
+<img width="600" height="540" alt="Product Seasonality Trends" src="https://github.com/user-attachments/assets/afa3de94-3e4b-4242-8312-81c1ab952ab4" />
 
 ### Discount vs Profit
-<img width="576" height="322" alt="Discount vs Profit" src="https://github.com/user-attachments/assets/4ea7157c-44e1-4e97-a064-e644bae47894" />
+<img width="1151" height="647" alt="Discount vs Profit" src="https://github.com/user-attachments/assets/4ea7157c-44e1-4e97-a064-e644bae47894" />
 
 ### Average Order Value
-<img width="574" height="320" alt="Average Order Value" src="https://github.com/user-attachments/assets/c1b936d1-2f89-47cf-93cc-77faef77b8a1" />
+<img width="1151" height="647" alt="Average Order Value" src="https://github.com/user-attachments/assets/c1b936d1-2f89-47cf-93cc-77faef77b8a1" />
 
 ### Top 10 Customers
-<img width="572" height="326" alt="Top 10 Customers" src="https://github.com/user-attachments/assets/e2f1e7ec-3fed-4f5e-83cc-e73ba7141a94" />
+<img width="1151" height="647" alt="Top 10 Customers" src="https://github.com/user-attachments/assets/e2f1e7ec-3fed-4f5e-83cc-e73ba7141a94" />
 
 ### Regional Category Ranking
-<img width="1148" height="642" alt="Regional Category Ranking" src="https://github.com/user-attachments/assets/1c605faf-5f31-4d07-b0e2-f59f881f2fac" />
+<img width="1151" height="647" alt="Regional Category Ranking" src="https://github.com/user-attachments/assets/1c605faf-5f31-4d07-b0e2-f59f881f2fac" />
