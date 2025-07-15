@@ -41,6 +41,10 @@ Create SQL views for reporting insights:
 
 ---
 
+## Reusable SQL Queries 
+
+
+---
 ## Power BI Dashboard Features
 
 | Dashboard Section                 | Visualization Type           | Description                              |
@@ -50,11 +54,6 @@ Create SQL views for reporting insights:
 | Average Order Value by Channel & Segment | Clustered Bar Chart          | Order values across channels and segments|
 | Top 10 Customers by Profit       | Horizontal Bar Chart        | Highest profit-contributing customers    |
 | Category Ranking by Region       | Stcaked Column Chart         | Product category rankings by region      |
-
----
-
-## Reusable SQL Queries 
-
 
 ---
 
